@@ -12,10 +12,14 @@ using GMT to plot the station distribution on the Indonesia topo map
 using GMT to plot the events distribution on the global map
 
 ## **docs**
-All the raw data is not pushed on the github
+All the raw docs is not pushed on the github
 1. ***script.py***
 using python to organize the data
 
 ## **data**
+Seismic data
+
+## **src**
+Receiver function codes, fortran, C ...
 
 ----
