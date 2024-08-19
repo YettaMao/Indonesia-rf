@@ -1,5 +1,5 @@
 # Indonesia RF study
-2024
+2024-
 
 ## **scripts** 
 1. ***plot_global.sh***
